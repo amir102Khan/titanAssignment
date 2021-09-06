@@ -1,0 +1,2 @@
+rootProject.name = "Titan assignment"
+include ':app'
